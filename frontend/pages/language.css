@@ -1,0 +1,95 @@
+body {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  width: 1440px;
+  height: 1024px;
+}
+
+.language .eng {
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.language .graphology-com {
+  position: relative;
+  margin-bottom: 83px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.language .select-alanguage {
+  position: relative;
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 128px;
+  color: #072867;
+}
+.language .language-that-you-are-comfortable-writing-in {
+  position: relative;
+  margin: 0 396px 194.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.language .english {
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 57.7px;
+  color: #000000;
+}
+.language .frame-1 {
+  border-radius: 40.5px;
+  background: #C1D6FF;
+  margin-right: 52px;
+  display: flex;
+  padding: 29.7px 0.8px 31px 0;
+  width: 463px;
+  box-sizing: border-box;
+}
+.language .container {
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 82.1px;
+  color: #000000;
+}
+.language .frame-2 {
+  border-radius: 40.5px;
+  background: #C1D6FF;
+  display: flex;
+  padding: 15.1px 13px 15.6px 0;
+  width: 463px;
+  box-sizing: border-box;
+}
+.language .container {
+  position: relative;
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  width: 978px;
+  box-sizing: border-box;
+}
+.language {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 43px 80.9px 304px 80.9px;
+  width: 1440px;
+  box-sizing: border-box;
+}

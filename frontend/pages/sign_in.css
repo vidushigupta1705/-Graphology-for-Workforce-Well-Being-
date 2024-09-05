@@ -1,0 +1,173 @@
+
+.sign-in .rectangle-1 {
+  border-radius: 45px;
+  position: absolute;
+  left: 175px;
+  top: 811px;
+  width: 342px;
+  height: 103px;
+}
+.sign-in .line-1 {
+  background: #000000;
+  position: absolute;
+  left: 74px;
+  bottom: 461.6px;
+  width: 569.1px;
+  height: 0px;
+}
+.sign-in .line-6 {
+  background: #000000;
+  position: absolute;
+  left: 77px;
+  bottom: 339.6px;
+  width: 569.1px;
+  height: 0px;
+}
+.sign-in .graphology-com {
+  margin: 0 10.1px 83px 10.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.sign-in .sign-in-1 {
+  margin: 0 0 66px 74.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 128px;
+  color: #072867;
+}
+.sign-in .line-7 {
+  background: #000000;
+  transform: rotate(89.732deg);
+  margin: 0 0 96px 311.1px;
+  width: 216px;
+  height: 0px;
+}
+.sign-in .vector {
+  width: 31.3px;
+  height: 31.3px;
+}
+.sign-in .name {
+  margin: 0 16.3px 14.8px 0;
+  display: flex;
+  width: 47px;
+  height: 47px;
+  box-sizing: border-box;
+}
+.sign-in .username {
+  position: relative;
+  margin-top: 18.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 24px;
+  color: #5B6F94;
+}
+.sign-in .container-3 {
+  margin-top: 13.8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.sign-in .log-in-using-the-following {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 29.4px;
+  color: #000000;
+}
+.sign-in .container-4 {
+  margin-bottom: 71px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1224.2px;
+  box-sizing: border-box;
+}
+.sign-in .icon {
+  width: 27.3px;
+  height: 34.2px;
+}
+.sign-in .security-lock {
+  margin: 0 10.2px 3.4px 0;
+  display: flex;
+  width: 41px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.sign-in .password {
+  position: relative;
+  margin-top: 9.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 24px;
+  color: #5B6F94;
+}
+.sign-in .container-2 {
+  margin-top: 11.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.sign-in .or {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+.sign-in .container-1 {
+  margin: 0 10px 12px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 782.9px;
+  box-sizing: border-box;
+}
+.sign-in .line-8 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #000000;
+  transform: rotate(89.732deg);
+  margin: 0 0 131px 311.1px;
+  width: 216px;
+  height: 0px;
+}
+.sign-in .sign-in-2 {
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.sign-in .frame-7 {
+  margin-right: 672.9px;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-in .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.sign-in {
+  background: #FFFFFF;
+  padding: 43px 70.8px 0 70.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}

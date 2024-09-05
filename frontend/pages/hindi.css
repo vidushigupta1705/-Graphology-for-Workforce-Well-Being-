@@ -1,0 +1,68 @@
+.hindi .image-2 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.hindi .graphology-com {
+  position: relative;
+  margin-bottom: 53px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.graphology-com-sub7 {
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 53.9px;
+  line-height: 1.333;
+}
+.hindi .container {
+  position: relative;
+  margin: 0 670.7px 479px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 128px;
+  color: #072867;
+}
+.hindi .container-1 {
+  margin: 9px 73.9px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 57.7px;
+  color: #000000;
+}
+.hindi .share-ios {
+  width: 88px;
+  height: 88px;
+}
+.hindi .frame-1 {
+  border-radius: 40.5px;
+  background: #C1D6FF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  padding: 21px 0 20.7px 0;
+  width: 463px;
+  box-sizing: border-box;
+}
+.hindi {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 43px 39px 100.3px 68.7px;
+  width: 1440px;
+  box-sizing: border-box;
+}

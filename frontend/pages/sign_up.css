@@ -1,0 +1,225 @@
+.sign-up .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.sign-up .rectangle-1 {
+  border-radius: 45px;
+  position: absolute;
+  left: 50%;
+  top: 843px;
+  translate: -50% 0;
+  width: 342px;
+  height: 103px;
+}
+.sign-up .graphology-com {
+  position: relative;
+  margin-bottom: 39px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.sign-up .sign-up-1 {
+  position: relative;
+  margin: 0 1px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 128px;
+  color: #072867;
+}
+.already-have-an-account-sign-in {
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.333;
+  color: #5B6F94;
+}
+.sign-up .already-have-an-account-sign-in {
+  position: relative;
+  margin: 0 1px 62.3px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.already-have-an-account-sign-in-sub189 {
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.333;
+  color: #756F6F;
+}
+.already-have-an-account-sign-in-sub188 {
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.sign-up .vector {
+  width: 29.3px;
+  height: 29.3px;
+}
+.sign-up .name {
+  margin-right: 11.8px;
+  display: flex;
+  width: 44px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.sign-up .username {
+  margin: 0.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 24px;
+  color: #5B6F94;
+}
+.sign-up .container-2 {
+  position: relative;
+  margin: 0 591.2px 7.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .line-1 {
+  background: #000000;
+  position: relative;
+  margin: 0 40.2px 64.6px 0;
+  width: 699.3px;
+  height: 0px;
+}
+.sign-up .envelope {
+  margin-right: 8.2px;
+  width: 38px;
+  height: 38px;
+}
+.sign-up .email {
+  margin-top: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 24px;
+  color: #5B6F94;
+}
+.sign-up .container-3 {
+  position: relative;
+  margin-right: 640.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .line-3 {
+  background: #000000;
+  position: relative;
+  margin: 0 40.8px 72.7px 0;
+  width: 699.3px;
+  height: 0px;
+}
+.sign-up .path-16 {
+  transform: rotate(-135deg);
+  width: 32.5px;
+  height: 9.2px;
+}
+.sign-up .phone {
+  margin-right: 9.5px;
+  display: flex;
+  width: 34px;
+  height: 34px;
+  box-sizing: border-box;
+}
+.sign-up .phone-number {
+  margin: 0.1px 0 1.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 24px;
+  color: #5B6F94;
+}
+.sign-up .container {
+  position: relative;
+  margin: 0 579px 0.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .line-4 {
+  background: #000000;
+  position: relative;
+  margin: 0 40.2px 56.2px 0;
+  width: 699.3px;
+  height: 0px;
+}
+.sign-up .icon {
+  width: 27.3px;
+  height: 34.2px;
+}
+.sign-up .security-lock {
+  margin: 0 7.2px 3.4px 0;
+  display: flex;
+  width: 41px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.sign-up .password {
+  margin-top: 9.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 24px;
+  color: #5B6F94;
+}
+.sign-up .container-1 {
+  position: relative;
+  margin: 0 596.5px 9.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .line-6 {
+  background: #000000;
+  position: relative;
+  margin: 0 40.2px 84.3px 0;
+  width: 699.3px;
+  height: 0px;
+}
+.sign-up .sign-up-2 {
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.sign-up .frame-5 {
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-up {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 43px 80.9px 97px 80.9px;
+  width: 1440px;
+  box-sizing: border-box;
+}

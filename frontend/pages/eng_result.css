@@ -1,0 +1,37 @@
+.eng-result .image-2 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.eng-result .graphology-com {
+  position: relative;
+  margin: 0 42.7px 25px 42.7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.eng-result .here-are-your-personality-traits {
+  position: relative;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 80px;
+  color: #072867;
+}
+.eng-result {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 78px 0 762px 59.2px;
+  width: 1440px;
+  box-sizing: border-box;
+}

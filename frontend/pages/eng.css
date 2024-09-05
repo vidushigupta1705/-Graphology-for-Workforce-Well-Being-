@@ -1,0 +1,68 @@
+.eng .image-2 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.graphology-com-sub7 {
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 53.9px;
+  line-height: 1.333;
+}
+.eng .graphology-com {
+  position: relative;
+  margin: 0 0.6px 53px 0.6px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.eng .write-here {
+  position: relative;
+  margin-bottom: 479px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 128px;
+  color: #072867;
+}
+.eng .submit {
+  margin: 19px 46.8px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Kotta One';
+  font-weight: 400;
+  font-size: 57.7px;
+  color: #000000;
+}
+.eng .share-ios {
+  width: 88px;
+  height: 88px;
+}
+.eng .frame-1 {
+  border-radius: 40.5px;
+  background: #C1D6FF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  padding: 11px 0 30.7px 0;
+  width: 463px;
+  box-sizing: border-box;
+}
+.eng {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 43px 39px 100.3px 68.1px;
+  width: 1440px;
+  box-sizing: border-box;
+}

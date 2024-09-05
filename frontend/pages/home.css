@@ -1,0 +1,92 @@
+.home .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.home .image {
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  margin: 22px 68.3px 15.6px 0;
+  width: 159px;
+  height: 156.4px;
+}
+.home .graphology-for-workforce-well-being {
+ 
+  position: relative;
+ 
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 96px;
+  color: #072867;
+}
+.home .container-2 {
+  margin: 0 17px 90px 17px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .handwriting-1 {
+  background: url('../assets/images/handwriting_1.jpeg') 50% / cover no-repeat;
+  margin-right: 121px;
+  width: 528px;
+  height: 528px;
+  margin-top: 30px;
+}
+.home .info{
+  margin: 0 0px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Julee';
+  font-weight: 400;
+  font-size: 36px;
+  color: #042D7B;
+  width:500px;
+  margin-top: 30px;
+}
+.home .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .rectangle-1 {
+  border-radius: 45px;
+  position: absolute;
+  top: 191px;
+  right: 41px;
+  width: 342px;
+  height: 103px;
+}
+.home .sign-up {
+  position: absolute;
+  top: 202px;
+  right: 113.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 53.9px;
+  color: #072867;
+}
+.home {
+  background: #FFFFFF;
+  display: flex;
+  padding: 71px 61.2px 141px 111px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+*{
+  align-items: center;
+}
